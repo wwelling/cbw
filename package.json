@@ -5,16 +5,9 @@
   "scripts": {
     "test": "node index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/wwelling/cbw.git"
-  },
   "keywords": [
     "ecosystem"
   ],
   "license": "SEE LICENSE IN LICENSE",
-  "bugs": {
-    "url": "https://github.com/wwelling/cbw/issues"
-  },
-  "homepage": "https://github.com/wwelling/cbw#readme"
+  "dependencies": {}
 }
